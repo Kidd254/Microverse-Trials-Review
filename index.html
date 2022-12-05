@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<main id="main">
+
+  <head>
+    <meta charset="UTF-8">
+    <title id="title">Fork Me! FCC: Test Suite Template</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+    <h1>Lawrence & Valentine Survey Form</h1>
+    <div id="img-div">
+      <figcaption id="img-caption"> rest in peace</figcaption>
+
+      <img id="image">
+
+    </div>
+    <h1 id="tribute-info"> Hello World!</h1>
+    <a id="tribute-link" target="_blank" href="#"></a>
+    <p id="description">Take your time to fill our survey Form</p>
+    <form id="survey-form">
+      <label id="name-label">Name</label>
+      <input type="text" id="name" placeholder="enter your name" required />
+      <label id="email-label">Email</label>
+      <input type="email" id="email" placeholder="Enter your email" required>
+      <label id="number-label">Number</label>
+      <input type="number" id="number" min="0" max="9999999999" placeholder="Enter your number">
+      <div>
+        <p>Select A Microverse Pair Programmer</p>
+        <select name="programmer" id="dropdown">
+          <option value="Lawrence">Lawrence</option>
+          <option value="Valentine">Valentine</option>
+          <option value="John">John</option>
+        </select>
+      </div>
+      <fieldset class="form-group">
+        <p>Select the Country</p>
+        <label> <input name="country" value="Kenya" type="radio">Kenya</label>
+        <label><Input name="country" value="Nigeria" type="radio">Nigeria</label>
+      </fieldset>
+      <fieldset class="form-group">
+        <p>Select the City</p>
+        <label> <input name="city" value="Nairobi" type="radio">Nairobi</label>
+        <label><Input name="city" value="Lagos" type="radio">Lagos</label>
+      </fieldset>
+
+      <div>
+        <P>Select Some Programming languages</P>
+        <label for="checkbox-1"></label>
+        <input type="checkbox" name="JavaScript" Value="JavaScript">
+        <input type="checkbox" name="Html" Value="Html">
+        <input type="checkbox" name="Css" Value="Css">
+        <input type="checkbox" name="Python" Value="Python">
+
+      </div>
+      <div>
+        <p>Tell Us More!</p>
+        <textarea name="text-area" id="" cols="30" rows="10"></textarea>
+      </div>
+      <button type="submit" id="submit">Submit</button>
+    </form>
+    <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+    <script src="js/index.js"></script>
+  </body>
+</main>
+
+</html>
