@@ -56,18 +56,13 @@ After you're finished please remove all the comments and instructions!
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
-
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Lawrence-s-Portfolio] <a name="about-project">This project was build using Html and css. Git, Github, and Vs Code Studio were key technological tools used in this project.</a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[Lawrence-s-Portfolio]** is the first project at Microverse that is meant to test one's knowledge on gitflow and Es Linter Configuration
 
-## 🛠 Built With <a name="built-with"></a>
-
-### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
+## 🛠 Built With <a name="built-with"> This project is built using pure Html and css</a>
 
 <details>
   <summary>Client</summary>
@@ -204,15 +199,9 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Kidd254](https://github.com/Kidd254)
+- Twitter: [@lawrenc98789206](https://twitter.com/lawrenc98789206)
+- LinkedIn: [lawrence-kioko-972035240/](https://www.linkedin.com/in/lawrence-kioko-972035240/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -262,15 +251,13 @@ I would like to thank...
 
 ## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+- **[Where is the functionality in this project?]**
 
-- **[Question_1]**
+  - [this project is work in progress, more changes are likely to be added in the due course]
 
-  - [Answer_1]
+- **[What is the aim of this project?]**
 
-- **[Question_2]**
-
-  - [Answer_2]
+  - [This project is meant to equip a learner with knowledge on correct github flow, and correct es linter configuration set up]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
